@@ -2,7 +2,9 @@
 1055 - Multimedia Authoring 2
 
 Homework: SVG Icon Set
+
 My theme: Social Media Icons
+
 Title: My Hand is Unsteady Social Media Icons
 1. Facebook
 2. Google Plus
